@@ -15,9 +15,11 @@ This Project focuses on delivering an immersive user Experience with Clean Desig
 
 ## 🛠 Tech Stack
 
-- **HTML5** – Structure and Layout.
-- **CSS3** – Styling, Responsiveness and Themes.
-- **JavaScript (ES6)** – Conversion Logic, Interactivity and DOM Manipulation.
+- **HTML5** – Semantic markup  
+- **CSS3** – Styling with Flexbox/Grid & custom animations  
+- **JavaScript (ES6+)** – Interactive elements  
+- **Locomotive Scroll** – Smooth scrolling & parallax animations  
+- **Multimedia** – Video + custom fonts  
 - **Google Fonts** – Clean and Modern typography.
 
 ## 💡Future Improvements
