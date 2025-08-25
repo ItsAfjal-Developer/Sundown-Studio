@@ -1,5 +1,5 @@
 # **Sundown Studio**
-A Sleek and Modern Landing Page built with **HTML , CSS , JavaScript** , and powered by **Locomotive Scroll** for Smooth Animations and Parallax Effects.  
+A Sleek and Modern Landing Page built with **HTML , CSS , JavaScript** and powered by **Locomotive Scroll** for Smooth Animations and Parallax Effects.  
 This Project focuses on delivering an immersive user Experience with Clean Design, Custom Fonts and engaging Scroll Interactions.  
 
 
